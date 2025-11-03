@@ -1,0 +1,9 @@
+{
+  "colsample_bytree": 0.9893057616406441,
+  "gamma": 0.1758760684257341,
+  "learning_rate": 0.19563148415815482,
+  "max_depth": 4,
+  "n_estimators": 322,
+  "reg_lambda": 3.1695128661227816,
+  "subsample": 0.8367300955799766
+}
